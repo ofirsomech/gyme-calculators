@@ -1,0 +1,11 @@
+/* Add to your global CSS file or a specific stylesheet */
+.rtl {
+    direction: rtl;
+    text-align: right;
+  }
+  
+  /* Adjust margins/paddings if needed for RTL layout */
+  .rtl input,
+  .rtl label {
+    text-align: right;
+  }
