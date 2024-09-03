@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-import  FuelCalculator  from "./components/fuel/fuel.component";
+import  FuelApp  from "../src/components/fuel/fuel-app.component";
 
 function App() {
   return (
-    <FuelCalculator></FuelCalculator>
+    <FuelApp></FuelApp>
   );
 }
 
