@@ -1,10 +1,10 @@
 import React from "react";
-import "./Table.css"
+import "./Table.css";
 
 const TableComponent = ({ data }) => {
   return (
     <div className="mt-8">
-      <h2 className="text-2xl font-bold mb-4 text-center">Data Table</h2>
+      <h2 className="text-2xl font-bold mb-4 text-center">History</h2>
       <div className="overflow-x-auto">
         <table className="styled-table">
           <thead>
